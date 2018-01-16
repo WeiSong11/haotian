@@ -1,0 +1,18 @@
+.ads-product-accept,.ads-product-cancel{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.ads-accept,.ads-cancel{
+    display: none;
+}
+
+.hidden_part{display: none !important;}
+.datetimepicker {
+    padding: 0px !important;;
+    -webkit-border-radius: 0px !important;
+    border-radius:0px !important;;
+}
+.bDiv th:nth-child(1){ width:5% !important;}
+.bDiv th:nth-child(2){ width:10% !important;}
+.bDiv th:nth-child(4){ width:18% !important;}
